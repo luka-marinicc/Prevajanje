@@ -4,5 +4,6 @@
 
 int main()
 {
+    printf("PI = %2f\n", PI);
     return 0;
 }
